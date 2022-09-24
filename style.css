@@ -8,6 +8,7 @@ body {
   background: url('img/fondo.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 .box {
@@ -31,7 +32,7 @@ body {
   font-size: 40px;
   letter-spacing: 4px;
   font-weight: 100;
-  
+  margin: 0px 0 0px;
   font-family: 'Permanent Marker', cursive;
 }
 
