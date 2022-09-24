@@ -1,2 +1,2 @@
-# geekhtv.github.io
+# geekh.github.io
 # Creado por Geekh
